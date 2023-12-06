@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Mahesh Muppasani</h1>
-<h3 align="center">A Passionate MERN Stack Developer </h3>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&random=false&width=435&lines=A+Passionate+MERN+Stack+Developer" alt="Typing SVG" /></a>
 <p align="center"><a  href="">Portfolio</a></p>
 
 <p align="center"><b>Skills</b></p>
