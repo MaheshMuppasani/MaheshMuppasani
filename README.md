@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Mahesh Muppasani</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&random=false&width=435&lines=A+Full+Stack+Developer" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&random=false&width=435&lines=Visionary+Software+Engineer+Seeking+Full-Time+Roles" alt="Typing SVG" /></a>
 
 <p align="center"><b>Skills</b></p>
 <p align="center">
